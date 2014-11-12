@@ -12,7 +12,7 @@ He answers 'Whatever' to anything else.
 
 ## Instructions
 
-You can import the code into eclipse as a java project. Run the BobTest.java file as a java application, and make all of the tests pass. To do this, you will want to modify Bob.java to meet the requirements listed above. Note that this short challenge doesnt use or require a testing framework. When all of the tests are passing and you are happy with your code, submit your Bob.java. 
+You can import the code into eclipse as a java project. Run the BobTest.java file as a java application, and make all of the tests pass. To do this, you will want to modify Bob.java to meet the requirements listed above. Note that this short challenge doesn't use or require a testing framework. When all of the tests are passing and you are happy with your code, submit your Bob.java. 
 
 The goal is to work towards a solution that is as readable and expressive as you can make it. Do not modify the BobTest.java class. 
 
