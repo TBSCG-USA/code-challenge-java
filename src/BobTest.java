@@ -16,6 +16,7 @@ public class BobTest {
 		map.put("", f);
 		map.put("WHAT WERE YOU THINKING?", c);
 		map.put("1, 2, 3 GO!", c);
+		map.put("1, 2, 3", w);
 		map.put("ZOMG THE %^*@#$(*^ ZOMBIES ARE COMING!!11!!1!", c);
 		map.put("4?", s);
 		map.put("Ending with a ? means a question.", w);
