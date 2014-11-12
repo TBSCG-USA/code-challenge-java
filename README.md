@@ -1,4 +1,4 @@
-# Instructions
+# instructions
 
 Please make the Bob.java class do the following things
 
@@ -35,4 +35,3 @@ Simply run BobTest.java as a java application in eclipse, or compile and run on 
 
 Inspired by the 'Deaf Grandma' exercise in Chris Pine's Learn to Program tutorial. http://pine.fm/LearnToProgram/?Chapter=06
 Also inspired by exercism.io
-
